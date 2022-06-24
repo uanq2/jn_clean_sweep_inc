@@ -1,12 +1,12 @@
 body {
-  background: #212d40;
+  background: #7a7a7a99;
   color: var(--color-primary);
-  font-family: "Poppins", sans-serif;
+  font-family: "Titillium Web", sans-serif;
   font-size: 18px;
-  --color-primary: #364156;
-  --color-primary-dark: #11151c;
-  --color-secondary: #212d40;
-  --color-bright: #d66853;
+  --color-primary: #0b1902;
+  --color-primary-dark: #0b1902;
+  --color-secondary: #291400;
+  --color-bright: #a87747;
   --color-light: #e0e1dd;
   --border-radius: 4px;
   margin: 0;

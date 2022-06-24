@@ -13,9 +13,11 @@
 }
 
 .navbar-logo {
+  color: var(--color-primary-dark);
   margin-left: 30px;
   cursor: pointer;
   display: flex;
+  text-decoration: none;
   align-items: center;
   width: 20rem;
 }
@@ -38,6 +40,10 @@
 }
 
 .nav-links:hover {
+  color: var(--color-bright);
+}
+
+.navbar-logo:hover {
   color: var(--color-bright);
 }
 

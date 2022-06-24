@@ -12,7 +12,7 @@ function Navbar() {
                 <Link to="/" className="navbar-logo">
                     JN Clean Sweep Inc
                 </Link>
-                <ul className="nav-menu">
+                <ul className="main-nav">
                     <li className="nav-item">
                         <Link to='/about-us' className="nav-links">
                             About Us
